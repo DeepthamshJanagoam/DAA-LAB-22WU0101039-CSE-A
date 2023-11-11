@@ -5,4 +5,4 @@ Name: Deepthamsh Janagoam
 Student ID: 22WU0101039
 Section: CSE-A
 Program: B.Tech
-Email: Deepthamsh,janagoam_2026@woxsen.edu.in
+Email: Deepthamsh.janagoam_2026@woxsen.edu.in
